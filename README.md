@@ -24,13 +24,6 @@ I'm an under 13 developer with a love for **Minecraft server development** and *
 
 ---
 
-## 🚀 Featured Projects
-
-### **Studio Luna** 🌙
-A creative Minecraft project that showcases innovative server mechanics and world-building. This project represents my passion for creating immersive gaming experiences!
-
-### **NeonDash** ⚡
-A sleek and modern Discord bot project featuring vibrant dashboards and interactive commands. Built with modern development practices to enhance community engagement.
 
 ---
 
