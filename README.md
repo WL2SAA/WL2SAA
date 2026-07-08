@@ -1,6 +1,18 @@
-# 💫 About Me:
-Username: WL2SAA<br>Name: Harshit<br>Age: 12<br>Roles:<br>  -  Programmer<br>  -  Gamer<br>  -  YouTuber<br>  -  Mistware (Software Company)<br>
+<h1 align="center">WL2SAA</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev Banner" width="50%" />
+</p>
 
+# <img src="https://svgl.app/library/vscode.svg" width="24" /> About Me<br />
+
+<pre>
+Username: WL2SAA
+Name: Harshit
+Age: 12
+Roles:
+  - <img src="https://svgl.app/library/vscode.svg" width="16" /> Learning Developer
+  - <img src="https://svgl.app/library/epicgames-icon-dark.svg" width="16" /> Gamer
+  - <img src="https://svgl.app/library/youtube.svg" width="16" /> YouTuber
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@H4rshit-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cubiexzz@gmail.com) 
