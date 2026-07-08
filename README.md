@@ -1,91 +1,26 @@
-# Hey there! 👋 Welcome to my GitHub!
+# 💫 About Me:
+Username: WL2SAA<br>Name: Harshit<br>Age: 12<br>Roles:<br>  -  Programmer<br>  -  Gamer<br>  -  YouTuber<br>  -  Mistware (Software Company)<br>
 
-I'm **WL2SAA**, a passionate **Minecraft Developer** crafting awesome gaming experiences and Discord communities! 🎮✨
 
----
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@H4rshit-ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cubiexzz@gmail.com) 
 
-## 🎯 About Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=WL2SAA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=WL2SAA&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=WL2SAA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm an under 13 developer with a love for **Minecraft server development** and **Discord bot creation**. I'm currently exploring the exciting worlds of **Python**, **Web Development**, and **AI-powered web applications**. I believe that age is no barrier to creating amazing things—passion and creativity are what matter!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WL2SAA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ My Skills
-
-### Primary Expertise
-- **Minecraft Server Development** - Building custom servers and plugins
-- **Discord Server Development** - Creating bots and community tools
-- **AI Web Development** - Integrating AI into web applications
-
-### Currently Learning
-- 🐍 **Python** - Exploring scripting and automation
-- 🌐 **Web Development** - Learning to build interactive websites
-- 🤖 **AI Integration** - Combining AI with web projects
-
----
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WL2SAA&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=WL2SAA&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WL2SAA&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WL2SAA&layout=compact&theme=radical)
-
----
-
-## 🎓 My Learning Journey
-
-I'm currently working on expanding my skills in:
-- 🐍 Python programming for server automation
-- 🌐 Full-stack web development fundamentals
-- 🤖 AI and machine learning applications
-- 💬 Advanced Discord bot development
-
----
-
-## 🎮 Why Minecraft & Discord?
-
-Minecraft servers and Discord bots are incredible platforms for learning:
-- **Problem-solving**: Building complex server systems teaches logical thinking
-- **Community building**: Discord development connects me with awesome people
-- **Creativity**: Both platforms let me bring ideas to life
-- **Real-world skills**: These projects teach actual programming concepts used in industry
-
----
-
-## 💡 Fun Facts About Me
-
-- 🎮 I started coding through Minecraft!
-- 🚀 I believe young developers can create amazing things
-- 🌟 I'm passionate about sharing knowledge and helping others learn
-- 🎨 I love the intersection of creativity and technology
-
----
-
-## 🤝 Let's Connect!
-
-While I'm not on social media, you can find my projects right here on GitHub! Feel free to:
-- ⭐ Star my projects if you like them
-- 🐛 Report issues or suggest improvements
-- 📚 Learn from my code and repositories
-- 💬 Engage through GitHub discussions
-
----
-
-## 🎯 My Goals
-
-- [ ] Master Python programming
-- [ ] Build full-stack web applications
-- [ ] Create an AI-powered web tool
-- [ ] Contribute to open-source Minecraft projects
-- [ ] Grow as a developer and community leader
-
----
-
-**Happy coding! 🚀** Remember: *The best time to start was yesterday, the second best is now!* 
-
----
-
-*Last updated: 2026-04-25*
